@@ -78,7 +78,7 @@ RPG:
 |:------:|:---------:|:----:|:--------------:|
 | <img src="https://github.com/MizzNotFound.png" width="60" style="border-radius: 50%;"> | **[MizzNotFound](https://github.com/MizzNotFound)** | 🔧 Founder | Website & Database Architecture |
 | <img src="https://github.com/Herzchens.png" width="60" style="border-radius: 50%;"> | **[Herzchen](https://github.com/Herzchens)** | ⚡ Backend Dev | Plugin Development & Systems |
-| <img src="https://github.com/deus.png" width="60" style="border-radius: 50%;"> | **[Deus](https://github.com/deus)** | 🎮 Game Dev | Configuration & Gameplay |
+| <img src="https://github.com/deus.png" width="60" style="border-radius: 50%;"> | **[Deus](https://github.com/feelsthebeats1)** | 🎮 Game Dev | Configuration & Gameplay |
 
 </div>
 
