@@ -8,7 +8,7 @@
 <img src="https://media.discordapp.net/attachments/1246097376620314685/1380537684824686663/DeWatermark.ai_1735386503285.png?ex=68628fe9&is=68613e69&hm=98ede6e00cef2941ae31940262193dbfdaa0f2627271e36fc7377fa1d0a04254&=&format=webp&quality=lossless&width=180&height=180" height="180" style="border-radius: 50%;" />
 
 [![GitHub followers](https://img.shields.io/github/followers/MizzNotFound?style=for-the-badge&logo=github&logoColor=white&color=6C63FF)](https://github.com/MizzNotFound)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&logoColor=white&color=7289DA&label=Discord)](https://bit.ly/zowmc)
+[![Discord](https://img.shields.io/discord/1245379066748600370?style=for-the-badge&logo=discord&logoColor=white&color=7289DA&label=Discord)](https://bit.ly/zowmc)
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A//zowmc.com&logo=minecraft&logoColor=white&color=00D26A)](https://zowmc.com)
 
 </div>
