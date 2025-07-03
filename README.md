@@ -77,7 +77,7 @@ RPG:
 | Avatar | Developer | Role | Specialization |
 |:------:|:---------:|:----:|:--------------:|
 | <img src="https://github.com/MizzNotFound.png" width="60" style="border-radius: 50%;"> | **[MizzNotFound](https://github.com/MizzNotFound)** | 🔧 Founder | Website & Database Architecture |
-| <img src="https://github.com/Herzchens.png" width="60" style="border-radius: 50%;"> | **[Herzchen](https://github.com/Herzchens)** | ⚡ Backend Dev | Plugin Development & Systems |
+| <img src="https://github.com/Herzchens.png" width="60" style="border-radius: 50%;"> | **[Herzchen](https://github.com/Herzchens)** | ⚡ Multipurpose Dev | Plugin Development & VPS Managing |
 | <img src="https://github.com/deus.png" width="60" style="border-radius: 50%;"> | **[Deus](https://github.com/feelsthebeats1)** | 🎮 Game Dev | Configuration & Gameplay |
 
 </div>
