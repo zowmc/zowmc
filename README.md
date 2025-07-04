@@ -215,6 +215,6 @@ graph LR
 
 *⭐ Star this repository if you love what we're building!*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zowmc&style=for-the-badge&color=6C63FF)](https://github.com/MizzNotFound)
+[![Profile Views](https://komarev.com/ghpvc/?username=zowmc&style=for-the-badge&color=6C63FF)](https://github.com/zowmc)
 
 </div>
