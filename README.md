@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Minecraft+Network+Excellence;Quality+%7C+Innovation+%7C+Community;Always+Building+Something+Amazing)](https://git.io/typing-svg)
 
-<img src="https://media.discordapp.net/attachments/1246097376620314685/1380537684824686663/DeWatermark.ai_1735386503285.png?ex=68628fe9&is=68613e69&hm=98ede6e00cef2941ae31940262193dbfdaa0f2627271e36fc7377fa1d0a04254&=&format=webp&quality=lossless&width=180&height=180" height="180" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/218489780?s=400&u=f58c5b4b75606eed077e2dba42be541ee8ddebec&v=4" height="180" style="border-radius: 50%;" />
 
 [![GitHub followers](https://img.shields.io/github/followers/MizzNotFound?style=for-the-badge&logo=github&logoColor=white&color=6C63FF)](https://github.com/MizzNotFound)
 [![Discord](https://img.shields.io/discord/1245379066748600370?style=for-the-badge&logo=discord&logoColor=white&color=7289DA&label=Discord)](https://bit.ly/zowmc)
@@ -110,7 +110,7 @@ RPG:
 **🖥️ Server Core**
 <br><br>
 <a href="https://github.com/PaperMC">
-  <img src="https://media.discordapp.net/attachments/1385901249475514378/1389184088325226496/256x.png?ex=6863b200&is=68626080&hm=92d6535cdf3eb87dead4b5507ab5a6de597e4c51e157ab547c76fa33e9b1745e&=&format=webp&quality=lossless&width=352&height=352" height="60" />
+  <img src="https://avatars.githubusercontent.com/u/7608950?s=200&v=4" height="60" />
 </a>
 <br>
 PaperMC
@@ -121,7 +121,7 @@ PaperMC
 **⚡ Performance**
 <br><br>
 <a href="https://github.com/PurpurMC">
-  <img src="https://media.discordapp.net/attachments/1385901249475514378/1389184490143744081/94729614.png?ex=6863b260&is=686260e0&hm=90087991fb8219a0fd943f637aa6dd7a9723cc8a6fd5c6e29b438bf4990bbece&=&format=webp&quality=lossless&width=138&height=138" height="60" />
+  <img src="https://avatars.githubusercontent.com/u/94729614?s=200&v=4" height="60" />
 </a>
 <br>
 PurpurMC
@@ -132,7 +132,7 @@ PurpurMC
 **🚀 Async Engine**
 <br><br>
 <a href="https://github.com/Winds-Studio/Leaf">
-  <img src="https://media.discordapp.net/attachments/1385901249475514378/1389184515649568828/leaf_logo.png?ex=6863b266&is=686260e6&hm=8fff198d2a5c48cd147caa19e469eed76aeab27955f317bb55c9d3e641585846&=&format=webp&quality=lossless&width=916&height=914" height="60" />
+  <img src="https://raw.githubusercontent.com/Winds-Studio/Leaf/refs/heads/ver/1.21.1/public/image/leaf_logo.png" height="60" />
 </a>
 <br>
 Leaf
@@ -144,7 +144,7 @@ Leaf
 **⚡ Performance Engine**
 <br><br>
 <a href="">
-  <img src="https://media.discordapp.net/attachments/1385901249475514378/1389184927311990845/image.png?ex=6863b2c8&is=68626148&hm=989e26153c072e80ec48dfe3a2b12c960da0cd57b670c74364af7704ed9608d6&=&format=webp&quality=lossless&width=921&height=921" height="60" />
+  <img src="https://images-ext-1.discordapp.net/external/R_lSlYrwnk--KG7TAifH3wqs-kCH1whsgwFOEC4XaKc/https/i.imgur.com/Jn2aIEO.png?format=webp&quality=lossless&width=921&height=921" height="60" />
 </a>
 <br>
 AxolotSpigot
