@@ -9,7 +9,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MizzNotFound?style=for-the-badge&logo=github&logoColor=white&color=6C63FF)](https://github.com/MizzNotFound)
 [![Discord](https://img.shields.io/discord/1245379066748600370?style=for-the-badge&logo=discord&logoColor=white&color=7289DA&label=Discord)](https://bit.ly/zowmc)
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A//www.zowmc.com&logo=minecraft&logoColor=white&color=00D26A)](https://zowmc.com)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A//www.zowmc.com&logo=minecraft&logoColor=white&color=00D26A)](https://www.zowmc.com)
 
 </div>
 
